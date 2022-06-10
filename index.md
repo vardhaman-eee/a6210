@@ -55,11 +55,11 @@ A6210.5. Design the various compensators and controllers for time invariant syst
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Unit II [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Unit III [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Unit IV [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Unit V [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Unit I [Download](link)
+2. Unit II [Download](link)
+3. Unit III [Download](link)
+4. Unit IV [Download](link)
+5. Unit V [Download](link)
 
 <hr>
 
@@ -73,25 +73,25 @@ both use 1 late day. Note that late days are intended to cover both normal circu
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|1 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|1 | [Assignment # 1](link) | - | - |
+|1 | [Assignment # 2](link) | - | - |
+|1 | [Assignment # 3](link) | - | - |
+|1 | [Assignment # 4](link) | - | - |
 
 ## <a name="practice">Practice</a>
 
-1. Time response of second order system [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Characteristics of Synchros [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Frequency response of lead and lag compensator circuits [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Temperature control using PID controller [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Characteristics of AC servo motor [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-6. DC Position control system [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-7. Effect of open loop poles and zeroes on Root Locus contour using MATLAB [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-8. Determination of gain margin and phase margin of Linear Time Invariant system using polar and Nyquist plots using MATLAB [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-9. Evaluation of effect of time delay on gain margin and phase margin of Linear Time Invariant system using Bode plot using MATLAB [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-10. Effect of P, PI, PD and PID controller on speed control of DC motor system using MATLAB-Simulink [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-11. State space model for classical transfer function using MATLAB [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-12. Design of a passive RC lead and lag compensating network for the given specifications and get its frequency response using MATLAB [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Time response of second order system [Download](link)
+2. Characteristics of Synchros [Download](link)
+3. Frequency response of lead and lag compensator circuits [Download](link)
+4. Temperature control using PID controller [Download](link)
+5. Characteristics of AC servo motor [Download](link)
+6. DC Position control system [Download](link)
+7. Effect of open loop poles and zeroes on Root Locus contour using MATLAB [Download](link)
+8. Determination of gain margin and phase margin of Linear Time Invariant system using polar and Nyquist plots using MATLAB [Download](link)
+9. Evaluation of effect of time delay on gain margin and phase margin of Linear Time Invariant system using Bode plot using MATLAB [Download](link)
+10. Effect of P, PI, PD and PID controller on speed control of DC motor system using MATLAB-Simulink [Download](link)
+11. State space model for classical transfer function using MATLAB [Download](link)
+12. Design of a passive RC lead and lag compensating network for the given specifications and get its frequency response using MATLAB [Download](link)
 
 
 **Lab attendance is required**.
@@ -100,5 +100,5 @@ both use 1 late day. Note that late days are intended to cover both normal circu
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
-|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|1 | CAT - I | [Download](link) | [Download](link) |
+|2 | CAT - II | [Download](link) | [Download](link) |
